@@ -15,6 +15,8 @@ The videos on the left show the driving videos. The first row on the right for e
 ### MGIF Dataset
 ![Screenshot](sup-mat/mgif-teaser.gif)
 
+### DEMO
+![20211115_130909](https://user-images.githubusercontent.com/22457544/141785104-713c680b-a112-44ed-a21f-eae858dee527.gif)
 
 ### Installation
 
@@ -30,7 +32,7 @@ There are several configuration (```config/dataset_name.yaml```) files one for e
 
 ### Pre-trained checkpoint
 Checkpoints can be found under following link: [google-drive](https://drive.google.com/open?id=1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH) or [yandex-disk](https://yadi.sk/d/lEw8uRm140L_eQ).
-![20211115_130909](https://user-images.githubusercontent.com/22457544/141785104-713c680b-a112-44ed-a21f-eae858dee527.gif)
+
 
 ### Animation Demo
 To run a demo, download checkpoint and run the following command:
