@@ -18,6 +18,7 @@ The videos on the left show the driving videos. The first row on the right for e
 ### DEMO
 ![20211115_130909](https://user-images.githubusercontent.com/22457544/141785104-713c680b-a112-44ed-a21f-eae858dee527.gif)
 ![20211115_131104](https://user-images.githubusercontent.com/22457544/141785434-e55f4e74-c42d-40e0-b993-a8f1469c2a90.gif)
+![20211115_131834](https://user-images.githubusercontent.com/22457544/141888900-14179e33-6d14-414c-8640-f927e2190344.gif)
 
 
 ### Installation
@@ -165,16 +166,4 @@ We recommend the later, for each video make a separate folder with all the frame
 
 3) Create a config ```config/dataset_name.yaml```, in dataset_params specify the root dir the ```root_dir:  data/dataset_name```. Also adjust the number of epoch in train_params.
 
-#### Additional notes
 
-Citation:
-
-```
-@InProceedings{Siarohin_2019_NeurIPS,
-  author={Siarohin, Aliaksandr and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu},
-  title={First Order Motion Model for Image Animation},
-  booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
-  month = {December},
-  year = {2019}
-}
-```
